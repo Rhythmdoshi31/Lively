@@ -1,0 +1,47 @@
+npx i -D tailwindcss@3          // Version 3 hi krna hai...
+
+npx tailwind init               // Error nhi dena chiye with version 3...
+
+------------------------------------------------------------------
+
+
+// Paste this in tailwind.config.js------
+
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  content: ["./views/**/*.ejs"],
+  theme: {
+    extend: {},
+  },
+  plugins: [],
+}
+
+------------------------------------------------------------------
+
+// Paste this in tailwind.css------------
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+------------------------------------------------------------------
+
+// Package.json me scripts me add this-----
+
+"build:css": "npx tailwindcss -i ./public/css/tailwind.css -o ./public/css/style.css --watch"
+
+------------------------------------------------------------------
+
+// Ejs ki files add this------
+
+<link href="/css/style.css" rel="stylesheet">
+
+------------------------------------------------------------------
+
+// In new Terminal paste this-------[ DO NOT CLOSE THIS TERMINAL, KEEP IT RUNNING IN BACKGROUND]
+
+npx run build:css
+
+------------------------------------------------------------------
+
+ISKE BAAD BHI NAHI CHALE TO RO DO...
