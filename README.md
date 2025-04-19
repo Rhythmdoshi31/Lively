@@ -4,6 +4,8 @@ Welcome to **LivelyChat**, a revolutionary platform that connects you with rando
 
 **LivelyChat** gives you the opportunity to meet new people, have fun conversations, and make meaningful connections instantly. Your next chat or video call could be just one click away!
 
+## **VIEW LIVE HERE -->**  vely-production-61db.up.railway.app
+
 ## Key Features
 
 - **Instant Random Chat**: No sign-ups, no waiting—just instant text-based conversations with strangers from anywhere in the world.
