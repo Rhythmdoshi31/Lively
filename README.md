@@ -4,7 +4,7 @@ Welcome to **LivelyChat**, a revolutionary platform that connects you with rando
 
 **LivelyChat** gives you the opportunity to meet new people, have fun conversations, and make meaningful connections instantly. Your next chat or video call could be just one click away!
 
-## **VIEW LIVE HERE --> (https://lively-production-2b55.up.railway.app/)
+## **VIEW LIVE HERE --> (https://lively-production-e285.up.railway.app/)
 
 ## Key Features
 
