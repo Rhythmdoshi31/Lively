@@ -2,7 +2,7 @@ const express = require("express");
 const app = express();
 const indexRouter = require("./routes"); // folder me index.js ho to naam likhna zaruri nahi hai...
 const path = require("path");
-
+require("dotenv").config();
 const http = require("http");  // These lines are socket setup...
 const socketIO = require("socket.io");
 const server = http.createServer(app);
@@ -59,6 +59,6 @@ app.use(express.static(path.join(__dirname, "public")));
 
 app.use("/", indexRouter);
 
-server.listen(3003  , () => {
+server.listen(process.env.PORT || 3003, () => {
     console.log("Server is running on port 3003");
 });
