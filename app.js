@@ -59,4 +59,6 @@ app.use(express.static(path.join(__dirname, "public")));
 
 app.use("/", indexRouter);
 
-server.listen(3000);
+server.listen(3003  , () => {
+    console.log("Server is running on port 3003");
+});
