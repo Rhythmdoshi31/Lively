@@ -4,7 +4,7 @@ Welcome to **LivelyChat**, a revolutionary platform that connects you with rando
 
 **LivelyChat** gives you the opportunity to meet new people, have fun conversations, and make meaningful connections instantly. Your next chat or video call could be just one click away!
 
-## **VIEW LIVE HERE --> ([https:///](https://lively.rhythmdoshi.site/))
+## **VIEW LIVE HERE --> ([https://lively.rhythmdoshi.site](https://lively.rhythmdoshi.site/))
 
 ## Key Features
 
