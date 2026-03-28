@@ -6,7 +6,7 @@ Welcome to **LivelyChat**, a revolutionary platform that connects you with rando
 
 ## **VIEW LIVE HERE --> 
 - [https://lively.rhythmdoshi.site](https://lively.rhythmdoshi.site/)
-- - [https://rhythmdoshi.site/project/livelychat](https://rhythmdoshi.site/project/livelychat)
+- [https://rhythmdoshi.site/project/livelychat](https://rhythmdoshi.site/project/livelychat)
 
 ## Key Features
 
